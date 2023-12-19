@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    width: 200px;
+    background: radial-gradient(circle, rgba(255,255,255,1) 54%, rgba(255,255,255,1) 70%, rgba(140,108,237,0.4649568445542279) 100%);
+}
+
+.btn {
+    border: 1px solid rebeccapurple;
+    border-radius: 6px;
+    padding: 6px 10px;
+    background: mediumpurple;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.btn:hover {
+    color: mediumpurple;
+    background: linear-gradient(0deg, rgba(212,212,255,1) 17%, rgba(255,255,255,1) 68%, rgba(140,108,237,0.4649568445542279) 100%);
+}
